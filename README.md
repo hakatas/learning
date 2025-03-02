@@ -1,7 +1,5 @@
 # learning
 
-このプロジェクトでは、Prismaを使用したデータベース管理を学習します。
-
 ## 📖 参考資料
 Prisma公式ドキュメント: [Prisma Getting Started](https://www.prisma.io/docs/getting-started/quickstart-sqlite)
 
